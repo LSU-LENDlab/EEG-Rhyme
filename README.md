@@ -10,3 +10,6 @@ If you wish to change the parent code (i.e., the code in this repository), you h
   2. Submit a GitHub issue detailing the requested changes/modifications and the reasons for the changes.
 
 
+## For `Child_Rhyme`
+
+Script for preprocessing is `child_rhyme_preproc.m`
