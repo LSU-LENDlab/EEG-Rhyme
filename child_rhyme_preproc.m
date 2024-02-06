@@ -46,8 +46,8 @@ cd(char({eegdirs.scriptsdir(1).folder}.'))
 
 % filter and epoch params
 
-LOWPASS = 30; % in Hz
-HIGHPASS = 0.1; % in Hz
+lowpass = 30; % in Hz
+highpass = 0.1; % in Hz
 EPOCH_BASELINE = -500.0; % epoch baseline
 EPOCH_END = 1000.0; % epoch offset
 
